@@ -1,3 +1,6 @@
+#DAY 00 of my python to AI/ML journey begins on Sunday 08-03-2026
+
+#print statements
 print("Welcome Back Sucker!!!")
 print("Here to try again ??")
 print("This is the last trial Man! we are killing it this time let's grind🔥🔥")
